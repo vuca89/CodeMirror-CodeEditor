@@ -1,0 +1,41 @@
+﻿{
+    "1": [{
+        "Key": "js",
+        "Value": ["temp"]
+    }],
+    "2": [{
+        "Key": "js/libs",
+        "Value": ["bootstrap.js", "bootstrap.min.js", "codemirror.js", "html5shiv.js", "jquery-1.11.0-vsdoc.js", "jquery-1.11.0.js", "jquery-1.11.0.min.js", "jquery-1.11.0.min.map", "respond.min.js"]
+    }, {
+        "Key": "js/file",
+        "Value": ["css.js", "html.js", "JavaScript.js", "scripts.js"]
+    }, {
+        "Key": "js/addon-codemirror",
+        "Value": ["clike.js", "css.js", "htmlembedded.js", "htmlmixed.js", "javascript.js", "xml.js"]
+    }],
+    "3": [{
+        "Key": "js/addon-codemirror/selection",
+        "Value": ["active-line.js", "mark-selection.js"]
+    }, {
+        "Key": "js/addon-codemirror/search",
+        "Value": ["match-highlighter.js", "search.js", "searchcursor.js"]
+    }, {
+        "Key": "js/addon-codemirror/lint",
+        "Value": ["css-lint.js", "csslint.js", "Fate.Undiscovered.Realms - SKIDROW.torrent", "javascript-lint.js", "jshint.js", "json-lint.js", "jsonlint.js", "lint.css", "lint.js"]
+    }, {
+        "Key": "js/addon-codemirror/hint",
+        "Value": ["anyword-hint.js", "css-hint.js", "html-hint.js", "javascript-hint.js", "show-hint.css", "show-hint.js", "sql-hint.js", "xml-hint.js"]
+    }, {
+        "Key": "js/addon-codemirror/fold",
+        "Value": ["brace-fold.js", "comment-fold.js", "foldcode.js", "foldgutter.css", "foldgutter.js", "indent-fold.js", "xml-fold.js"]
+    }, {
+        "Key": "js/addon-codemirror/edit",
+        "Value": ["closebrackets.js", "closetag.js", "continuelist.js", "matchbrackets.js", "matchtags.js", "trailingspace.js"]
+    }, {
+        "Key": "js/addon-codemirror/display",
+        "Value": ["fullscreen.css", "fullscreen.js", "placeholder.js", "rulers.js"]
+    }, {
+        "Key": "js/addon-codemirror/dialog",
+        "Value": ["dialog.css", "dialog.js"]
+    }]
+}
